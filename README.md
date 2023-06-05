@@ -1,4 +1,4 @@
-# stm32ecm
+# stm32f072rb cdc ecm
 USB CDC-ECM implementation for STM32F072
 
 Oryginal project: https://github.com/majbthrd/stm32ecm
